@@ -1,6 +1,6 @@
 // Tick service worker: lets the app open offline.
 // Bump VERSION whenever you upload new files so phones pick up the update.
-const VERSION = 'tick-v2';
+const VERSION = 'tick-v3';
 const SHELL = ['./', './index.html', './manifest.webmanifest',
   './apple-touch-icon.png', './icon-192.png', './icon-512.png'];
 
